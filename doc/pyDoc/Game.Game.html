@@ -1,0 +1,173 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Game</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Game</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/pate/workspace/Yleinen noppapeli/src/Game/Game.py">/home/pate/workspace/Yleinen noppapeli/src/Game/Game.py</a></font></td></tr></table>
+    <p><tt>Created&nbsp;on&nbsp;31&nbsp;Mar&nbsp;2010<br>
+Last&nbsp;modified&nbsp;on&nbsp;4&nbsp;May&nbsp;2010<br>
+&nbsp;<br>
+@author:&nbsp;Patrik&nbsp;Ahvenainen</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="Settings.html">Settings</a><br>
+<a href="HighScores.html">HighScores</a><br>
+</td><td width="25%" valign=top><a href="Throw.html">Throw</a><br>
+<a href="Logger.html">Logger</a><br>
+</td><td width="25%" valign=top><a href="Dice.html">Dice</a><br>
+<a href="Player.html">Player</a><br>
+</td><td width="25%" valign=top><a href="random.html">random</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="Game.html#Game">Game</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Game">class <strong>Game</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>game-luokka&nbsp;on&nbsp;gamen&nbsp;gamemoottorin&nbsp;tärkein&nbsp;luokka.&nbsp;Sen&nbsp;luomiskutsulla&nbsp;luodaan&nbsp;myös&nbsp;kaikki&nbsp;gamen&nbsp;käyttämät<br>
+luokat,&nbsp;joita&nbsp;tarvitaan&nbsp;game&nbsp;käynnistyessä.&nbsp;game-luokka&nbsp;on&nbsp;oikeastaan&nbsp;lista&nbsp;gamein&nbsp;kuuluvista&nbsp;muilla&nbsp;luokista<br>
+sekä&nbsp;sisältää&nbsp;tiedon&nbsp;gamekierroksesta&nbsp;ja&nbsp;gameturnsta.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Game-SequentialChoice"><strong>SequentialChoice</strong></a>(self)</dt><dd><tt>Chooses&nbsp;next&nbsp;combination&nbsp;from&nbsp;the&nbsp;current&nbsp;player<br>
+to&nbsp;mark&nbsp;the&nbsp;scores&nbsp;for.</tt></dd></dl>
+
+<dl><dt><a name="Game-__init__"><strong>__init__</strong></a>(self, players, settings_file, max_no_of_comb<font color="#909090">=100</font>, log<font color="#909090">=True</font>)</dt><dd><tt>Luo&nbsp;listan&nbsp;pelaajista.&nbsp;Lataa&nbsp;tämän&nbsp;jälkeen&nbsp;settings_filesta&nbsp;listan<br>
+gamessä&nbsp;käytettävistä&nbsp;yhdistelmistä&nbsp;ja&nbsp;luon&nbsp;niiden&nbsp;perusteella<br>
+pelaajille&nbsp;tulostaulukot.&nbsp;Luo&nbsp;gamein&nbsp;settings_filessa&nbsp;määritellyn<br>
+määrän&nbsp;noppia.</tt></dd></dl>
+
+<dl><dt><a name="Game-endGame"><strong>endGame</strong></a>(self)</dt><dd><tt>Check&nbsp;for&nbsp;high&nbsp;scores&nbsp;and&nbsp;mark&nbsp;mark&nbsp;the&nbsp;game&nbsp;<br>
+as&nbsp;ended</tt></dd></dl>
+
+<dl><dt><a name="Game-get_currentPlayer"><strong>get_currentPlayer</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_dicelist"><strong>get_dicelist</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_end"><strong>get_end</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_gameround"><strong>get_gameround</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_gameturn"><strong>get_gameturn</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_log"><strong>get_log</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_max_no_of_comb"><strong>get_max_no_of_comb</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_player_list"><strong>get_player_list</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_players"><strong>get_players</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_settings"><strong>get_settings</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_settings_file"><strong>get_settings_file</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_throw"><strong>get_throw</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-get_throwturn"><strong>get_throwturn</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-goForward"><strong>goForward</strong></a>(self)</dt><dd><tt>Advance&nbsp;in&nbsp;the&nbsp;game&nbsp;if&nbsp;possible</tt></dd></dl>
+
+<dl><dt><a name="Game-newGame"><strong>newGame</strong></a>(self, players<font color="#909090">=None</font>)</dt><dd><tt>Start&nbsp;a&nbsp;new&nbsp;game&nbsp;with&nbsp;the&nbsp;same&nbsp;settings&nbsp;and&nbsp;players<br>
+&nbsp;<br>
+The&nbsp;optional&nbsp;parameter&nbsp;'players'&nbsp;can&nbsp;be&nbsp;used<br>
+to&nbsp;change&nbsp;the&nbsp;number&nbsp;and&nbsp;names&nbsp;of&nbsp;the&nbsp;players<br>
+The&nbsp;'players'&nbsp;is&nbsp;a&nbsp;list&nbsp;of&nbsp;names&nbsp;(strings)</tt></dd></dl>
+
+<dl><dt><a name="Game-nextPlayer"><strong>nextPlayer</strong></a>(self)</dt><dd><tt>This&nbsp;method&nbsp;is&nbsp;called&nbsp;when&nbsp;a&nbsp;player&nbsp;marks&nbsp;his&nbsp;score<br>
+on&nbsp;his&nbsp;score&nbsp;sheet.&nbsp;It&nbsp;advances&nbsp;the&nbsp;game&nbsp;to&nbsp;the&nbsp;next<br>
+player&nbsp;if&nbsp;possible.</tt></dd></dl>
+
+<dl><dt><a name="Game-next_gameround"><strong>next_gameround</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-next_gameturn"><strong>next_gameturn</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-next_throwturn"><strong>next_throwturn</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Game-randomChoice"><strong>randomChoice</strong></a>(self)</dt><dd><tt>Chooses&nbsp;randomly&nbsp;a&nbsp;combination&nbsp;from&nbsp;the&nbsp;current&nbsp;player<br>
+to&nbsp;mark&nbsp;the&nbsp;scores&nbsp;for.</tt></dd></dl>
+
+<dl><dt><a name="Game-setPlayersDiceThrow"><strong>setPlayersDiceThrow</strong></a>(self, players)</dt><dd><tt>Append&nbsp;players&nbsp;to&nbsp;self.<strong>player_list</strong>&nbsp;and&nbsp;add<br>
+dices&nbsp;to&nbsp;the&nbsp;self.<strong>dicelist</strong>&nbsp;and&nbsp;update&nbsp;self.<strong>throw</strong><br>
+with&nbsp;the&nbsp;new&nbsp;self.<strong>dicelist</strong>.<br>
+&nbsp;<br>
+The&nbsp;score&nbsp;lists&nbsp;are&nbsp;also&nbsp;created&nbsp;when&nbsp;creating<br>
+players.<br>
+&nbsp;<br>
+This&nbsp;method&nbsp;should&nbsp;be&nbsp;called&nbsp;whenever&nbsp;new&nbsp;settings<br>
+are&nbsp;read&nbsp;from&nbsp;file&nbsp;or&nbsp;new&nbsp;game&nbsp;is&nbsp;created.</tt></dd></dl>
+
+<dl><dt><a name="Game-settingUpdate"><strong>settingUpdate</strong></a>(self, players<font color="#909090">=None</font>)</dt><dd><tt>Invoke&nbsp;this&nbsp;method&nbsp;when&nbsp;settings&nbsp;are&nbsp;updated<br>
+&nbsp;<br>
+This&nbsp;method&nbsp;clears&nbsp;the&nbsp;player&nbsp;and&nbsp;dice&nbsp;lists<br>
+and&nbsp;creates&nbsp;new&nbsp;lists&nbsp;using&nbsp;the&nbsp;method<br>
+setPlayersDiceThrow<br>
+&nbsp;<br>
+The&nbsp;optional&nbsp;parameter&nbsp;'players'&nbsp;can&nbsp;be&nbsp;used<br>
+to&nbsp;change&nbsp;the&nbsp;number&nbsp;and&nbsp;names&nbsp;of&nbsp;the&nbsp;players<br>
+The&nbsp;'players'&nbsp;is&nbsp;a&nbsp;list&nbsp;of&nbsp;names&nbsp;(strings)</tt></dd></dl>
+
+<dl><dt><a name="Game-throwAllDices"><strong>throwAllDices</strong></a>(self, unlock<font color="#909090">=False</font>)</dt><dd><tt>Throw&nbsp;all&nbsp;dice&nbsp;in&nbsp;the&nbsp;game.&nbsp;Parameter&nbsp;'unlock'&nbsp;can&nbsp;be&nbsp;used<br>
+to&nbsp;indicate&nbsp;that&nbsp;all&nbsp;dice&nbsp;should&nbsp;be&nbsp;unlocked&nbsp;before&nbsp;throwing.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>currentPlayer</strong></dt>
+</dl>
+<dl><dt><strong>dicelist</strong></dt>
+</dl>
+<dl><dt><strong>end</strong></dt>
+</dl>
+<dl><dt><strong>gameround</strong></dt>
+</dl>
+<dl><dt><strong>gameturn</strong></dt>
+</dl>
+<dl><dt><strong>log</strong></dt>
+</dl>
+<dl><dt><strong>max_no_of_comb</strong></dt>
+</dl>
+<dl><dt><strong>player_list</strong></dt>
+</dl>
+<dl><dt><strong>players</strong></dt>
+</dl>
+<dl><dt><strong>settings</strong></dt>
+</dl>
+<dl><dt><strong>settings_file</strong></dt>
+</dl>
+<dl><dt><strong>throw</strong></dt>
+</dl>
+<dl><dt><strong>throwturn</strong></dt>
+</dl>
+</td></tr></table></td></tr></table>
+</body></html>

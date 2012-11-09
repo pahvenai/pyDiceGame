@@ -1,0 +1,7 @@
+#N#		7
+s	6
+H		3
+1y	000100							nMin 1	nMax 9	sMin 2	sMax 9	hMin 1	hMax 10
+1y	000200							nMin 1	nMax 9	sMin 2	sMax 9	hMin 1	hMax 10 indexMin 4 	indexMax 5
+#y#	000300							nMin 8	nMax 9	sMin 2	sMax 9	hMin 1	hMax 10	indexMin 2 	indexMax 4
+1y	000400							nMin 1	nMax 9	sMin 2	sMax 9	hMin 1	hMax 10 

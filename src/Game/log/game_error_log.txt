@@ -1,0 +1,302 @@
+2010-05-04 18:59:18,252 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:18,253 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,321 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:18,321 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,321 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,382 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:18,382 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,382 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,441 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:18,442 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,442 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,518 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,518 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,587 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,587 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,681 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,681 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,800 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,800 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:18,926 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:18,926 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,061 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,061 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,201 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,202 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,335 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,336 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,443 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:19,445 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,445 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,535 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:19,535 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,535 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,623 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:19,623 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,623 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,711 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:19,712 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:19,712 - WARNING(Game.Settings): Attempted to pass inproper maximum no of throws0
+2010-05-04 18:59:19,800 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:19,800 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:19,933 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:19,933 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,064 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:20,064 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,221 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,356 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,466 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,725 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:20,964 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,110 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,260 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,445 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,591 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:21,591 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,691 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:21,691 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,799 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:21,800 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:21,934 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:21,934 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:22,087 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:22,087 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,213 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:22,213 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,358 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:22,359 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,518 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,635 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,766 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:22,885 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,015 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,143 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,329 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,521 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,706 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:23,706 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,835 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:23,835 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:23,969 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:23,969 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:24,086 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:24,087 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:24,177 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:24,264 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:24,366 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:25,639 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:25,757 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:25,859 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:25,961 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:26,062 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:26,180 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:26,300 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:27,667 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:27,792 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:27,898 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:28,017 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:28,132 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:28,268 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:28,409 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:29,579 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:29,674 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:29,768 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:29,863 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:29,985 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:30,113 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:30,217 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:31,714 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:31,871 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:32,027 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:32,166 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:32,322 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:32,493 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:32,662 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:34,286 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:34,477 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:34,617 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:34,745 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:34,958 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:35,157 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:35,346 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:37,430 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:37,617 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:37,819 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:38,016 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:38,207 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:38,373 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:38,585 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:40,203 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:40,347 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:40,493 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:40,638 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:40,784 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:40,945 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:41,105 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:42,736 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:42,910 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:43,071 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:43,236 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:43,400 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:43,583 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:43,766 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:45,631 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:45,821 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:46,049 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:46,242 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:46,437 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:46,437 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:46,532 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:46,533 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:46,627 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:46,627 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:46,758 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:46,853 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:46,960 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,076 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,201 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,330 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,467 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,606 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,720 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:47,720 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,818 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:47,818 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:47,914 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:47,915 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:48,011 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:48,011 - WARNING(Game.Settings): Attempted to pass inproper no of dice10
+2010-05-04 18:59:48,110 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:48,110 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,207 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:48,208 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,304 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:48,304 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,423 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,524 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,636 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,754 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:48,891 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,024 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,163 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,307 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,424 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:49,424 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,522 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:49,522 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,622 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:49,622 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,721 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:49,722 - WARNING(Game.Settings): Attempted to pass inproper no of dice11
+2010-05-04 18:59:49,821 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:49,822 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:49,923 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:49,923 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,024 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:50,024 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,144 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,249 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,363 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,487 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,616 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,752 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:50,894 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,041 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,162 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:51,163 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,264 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:51,264 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,366 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:51,366 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,467 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:51,467 - WARNING(Game.Settings): Attempted to pass inproper no of dicestring
+2010-05-04 18:59:51,568 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:51,568 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:51,669 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:51,669 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:51,997 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:51,998 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,112 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,210 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,322 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,445 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,582 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,748 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:52,919 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,072 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,196 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:53,196 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,298 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:53,298 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,402 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:53,403 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,506 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:53,507 - WARNING(Game.Settings): Attempted to pass inproper no of dice{'dict': 'value'}
+2010-05-04 18:59:53,610 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:53,610 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:53,716 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:53,716 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:53,820 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:53,820 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:53,944 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,054 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,201 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,331 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,468 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,608 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,756 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:54,907 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:55,044 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:55,044 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:55,149 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:55,149 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:55,254 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:55,254 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:55,359 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:55,359 - WARNING(Game.Settings): Attempted to pass inproper no of dice-1
+2010-05-04 18:59:55,465 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:55,465 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:55,571 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:55,572 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:55,678 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:55,678 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:55,804 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:55,913 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,031 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,158 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,296 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,441 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,588 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,742 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,868 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:56,869 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:56,975 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:56,975 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:57,080 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:57,081 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:57,187 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:57,187 - WARNING(Game.Settings): Attempted to pass inproper no of dice0
+2010-05-04 18:59:57,293 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:57,375 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:57,455 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 18:59:58,459 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 18:59:58,542 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 18:59:58,626 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 18:59:58,710 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 18:59:58,793 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 18:59:58,890 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 18:59:58,990 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 19:00:00,154 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 19:00:00,253 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 19:00:00,357 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 19:00:00,459 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 19:00:00,569 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 19:00:00,686 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 19:00:00,804 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 19:00:02,108 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice10
+2010-05-04 19:00:02,230 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice11
+2010-05-04 19:00:02,348 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dicestring
+2010-05-04 19:00:02,468 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice{'dict': 'value'}
+2010-05-04 19:00:02,586 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice-1
+2010-05-04 19:00:02,719 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice0
+2010-05-04 19:00:02,854 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1

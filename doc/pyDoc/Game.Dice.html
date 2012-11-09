@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Dice</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Dice</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/pate/workspace/Yleinen noppapeli/src/Game/Dice.py">/home/pate/workspace/Yleinen noppapeli/src/Game/Dice.py</a></font></td></tr></table>
+    <p><tt>Created&nbsp;on&nbsp;31&nbsp;Mar&nbsp;2010<br>
+Last&nbsp;modified&nbsp;on&nbsp;3&nbsp;May&nbsp;2010<br>
+&nbsp;<br>
+&nbsp;<br>
+@author:&nbsp;Patrik&nbsp;Ahvenainen</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="random.html">random</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="Dice.html#Dice">Dice</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Dice">class <strong>Dice</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Noppagamessä&nbsp;tärkeitä&nbsp;tekijöitä&nbsp;ovat&nbsp;tietenkin&nbsp;nopat.&nbsp;gamen&nbsp;toteutuksessa&nbsp;nopalla&nbsp;ei&nbsp;itse&nbsp;asiassa&nbsp;ole<br>
+montaa&nbsp;metodia&nbsp;ja&nbsp;attribuuttia.&nbsp;Nopalla&nbsp;on&nbsp;tieto&nbsp;vain&nbsp;neljästä&nbsp;asiasta:&nbsp;maksimisilmäluvustaan,&nbsp;silmä-<br>
+luvustaan,&nbsp;edellisestä&nbsp;silmäluvustaan,&nbsp;sekä&nbsp;lockmisstatuksestaan.&nbsp;Edellinen&nbsp;silmäluku-tieto&nbsp;nopalla&nbsp;on<br>
+siksi,&nbsp;että&nbsp;se&nbsp;mahdollistaa&nbsp;edellisen&nbsp;siirron&nbsp;perumiseen,&nbsp;jos&nbsp;gamein&nbsp;halutaan&nbsp;toteuttaa&nbsp;"Peru"-toiminto.<br>
+Tämän&nbsp;harjoitustyön&nbsp;toteutuksessa&nbsp;sitä&nbsp;toimintoa&nbsp;ei&nbsp;toteuteta.<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Dice-__init__"><strong>__init__</strong></a>(self, max_value)</dt><dd><tt>gamen&nbsp;luomisen&nbsp;yhteydessä&nbsp;luodaan&nbsp;gameasetuksista&nbsp;luettu&nbsp;määrä<br>
+noppia.&nbsp;Nopat&nbsp;luodaan&nbsp;myös&nbsp;muutettaessa&nbsp;noppien&nbsp;maksimisilmälukua<br>
+tai&nbsp;noppien&nbsp;lukumäärää.</tt></dd></dl>
+
+<dl><dt><a name="Dice-get_locked"><strong>get_locked</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Dice-get_prev_value"><strong>get_prev_value</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Dice-get_value"><strong>get_value</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Dice-lock"><strong>lock</strong></a>(self)</dt><dd><tt>Changes&nbsp;the&nbsp;locked&nbsp;attribute&nbsp;to&nbsp;True</tt></dd></dl>
+
+<dl><dt><a name="Dice-throw"><strong>throw</strong></a>(self)</dt><dd><tt>Käyttää&nbsp;value-ominaisuuden&nbsp;(property)&nbsp;setteriä,&nbsp;joka<br>
+määrää,&nbsp;että&nbsp;nopan&nbsp;silmälukua&nbsp;voi&nbsp;vaihtaa&nbsp;vain&nbsp;heittämällä<br>
+noppaa,&nbsp;eli&nbsp;valitsemalla&nbsp;satunnaisen&nbsp;silmäluvun&nbsp;yhden&nbsp;ja&nbsp;<br>
+nopan&nbsp;maksimisilmäluvun&nbsp;väliltä<br>
+&nbsp;<br>
+esim.&nbsp;noppa.value&nbsp;=&nbsp;3&nbsp;--&gt;&nbsp;noppa.value&nbsp;=&nbsp;(1..maksimi)<br>
+&nbsp;<br>
+Lukitun&nbsp;nopan&nbsp;heittäminen&nbsp;ei&nbsp;aiheuta&nbsp;mitään&nbsp;toimintoja.</tt></dd></dl>
+
+<dl><dt><a name="Dice-toggle_locked"><strong>toggle_locked</strong></a>(self)</dt><dd><tt>Changes&nbsp;the&nbsp;locked&nbsp;attribute&nbsp;to&nbsp;True<br>
+if&nbsp;it&nbsp;was&nbsp;previously&nbsp;False.<br>
+Changes&nbsp;the&nbsp;locked&nbsp;attribute&nbsp;to&nbsp;False<br>
+if&nbsp;it&nbsp;was&nbsp;previously&nbsp;True.<br>
+&nbsp;<br>
+In&nbsp;other&nbsp;words&nbsp;this&nbsp;function&nbsp;toggles<br>
+the&nbsp;attribute&nbsp;locked&nbsp;between<br>
+True&nbsp;and&nbsp;False.</tt></dd></dl>
+
+<dl><dt><a name="Dice-unlock"><strong>unlock</strong></a>(self)</dt><dd><tt>Changes&nbsp;the&nbsp;locked&nbsp;attribute&nbsp;to&nbsp;False</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>locked</strong></dt>
+</dl>
+<dl><dt><strong>prev_value</strong></dt>
+</dl>
+<dl><dt><strong>value</strong></dt>
+</dl>
+</td></tr></table></td></tr></table>
+</body></html>

@@ -1,0 +1,156 @@
+2010-05-04 19:00:02,749 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,749 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:02,749 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 6
+2010-05-04 19:00:02,749 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 2
+2010-05-04 19:00:02,770 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:02,770 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:02,777 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:02,801 - INFO(Game.HighScores): Winner is Player 2 with 77 points.
+2010-05-04 19:00:02,803 - INFO(Game.Game): Game has ended.
+2010-05-04 19:00:02,822 - DEBUG(Game.Game): Game started
+2010-05-04 19:00:02,823 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:02,823 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:02,823 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,823 - INFO(Game.Settings): Updating the value of number of dice
+2010-05-04 19:00:02,823 - INFO(Game.Settings): Updating the value of maximum value for dice
+2010-05-04 19:00:02,823 - INFO(Game.Settings): Updating the value of number of throws per turn
+2010-05-04 19:00:02,831 - DEBUG(Game.Game): Initial settings read from file
+2010-05-04 19:00:02,846 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:02,846 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:02,853 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:02,854 - WARNING(Game.Settings): Attempted to pass inproper maximum value of dice1
+2010-05-04 19:00:02,854 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:02,854 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:02,855 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,855 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:02,855 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 6
+2010-05-04 19:00:02,855 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:02,875 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:02,875 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:02,882 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 6
+2010-05-04 19:00:02,883 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 2
+2010-05-04 19:00:02,906 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:02,906 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:02,913 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:02,936 - INFO(Game.HighScores): Winner is Player 1 with 79 points.
+2010-05-04 19:00:02,938 - INFO(Game.Game): Game has ended.
+2010-05-04 19:00:02,957 - DEBUG(Game.Game): Game started
+2010-05-04 19:00:02,957 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:02,957 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:02,958 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,958 - INFO(Game.Settings): Updating the value of number of dice
+2010-05-04 19:00:02,958 - INFO(Game.Settings): Updating the value of maximum value for dice
+2010-05-04 19:00:02,958 - INFO(Game.Settings): Updating the value of number of throws per turn
+2010-05-04 19:00:02,965 - DEBUG(Game.Game): Initial settings read from file
+2010-05-04 19:00:02,980 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:02,981 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:02,988 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): number of dice was not changed and the current value is 5
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 2
+2010-05-04 19:00:02,989 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,004 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,005 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,010 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,011 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,011 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,011 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,011 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,012 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 2
+2010-05-04 19:00:03,012 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,026 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,026 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,032 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,032 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,032 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,033 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,033 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,033 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 2
+2010-05-04 19:00:03,033 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 2
+2010-05-04 19:00:03,048 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,048 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,053 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,067 - INFO(Game.HighScores): Winner is Player 1 with 138 points.
+2010-05-04 19:00:03,068 - INFO(Game.Game): Game has ended.
+2010-05-04 19:00:03,090 - DEBUG(Game.Game): Game started
+2010-05-04 19:00:03,091 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,092 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,092 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,092 - INFO(Game.Settings): Updating the value of number of dice
+2010-05-04 19:00:03,092 - INFO(Game.Settings): Updating the value of maximum value for dice
+2010-05-04 19:00:03,092 - INFO(Game.Settings): Updating the value of number of throws per turn
+2010-05-04 19:00:03,100 - DEBUG(Game.Game): Initial settings read from file
+2010-05-04 19:00:03,115 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,115 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,123 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,123 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,123 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,123 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,124 - DEBUG(Game.Settings): number of dice was not changed and the current value is 5
+2010-05-04 19:00:03,124 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 3
+2010-05-04 19:00:03,124 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,141 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,141 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,150 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,151 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,151 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,151 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,151 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,152 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 3
+2010-05-04 19:00:03,152 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,180 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,181 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,186 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,187 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,187 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,187 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,188 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,188 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 3
+2010-05-04 19:00:03,188 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 2
+2010-05-04 19:00:03,205 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,205 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,211 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,228 - INFO(Game.HighScores): Winner is Player 1 with 79 points.
+2010-05-04 19:00:03,354 - INFO(Game.Game): Game has ended.
+2010-05-04 19:00:03,398 - DEBUG(Game.Game): Game started
+2010-05-04 19:00:03,400 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,400 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,400 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,401 - INFO(Game.Settings): Updating the value of number of dice
+2010-05-04 19:00:03,401 - INFO(Game.Settings): Updating the value of maximum value for dice
+2010-05-04 19:00:03,401 - INFO(Game.Settings): Updating the value of number of throws per turn
+2010-05-04 19:00:03,407 - DEBUG(Game.Game): Initial settings read from file
+2010-05-04 19:00:03,419 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,419 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,425 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,425 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,425 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,426 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,426 - DEBUG(Game.Settings): number of dice was not changed and the current value is 5
+2010-05-04 19:00:03,426 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 4
+2010-05-04 19:00:03,426 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,441 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,441 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,446 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,447 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,447 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,447 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,447 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,448 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 4
+2010-05-04 19:00:03,448 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 10
+2010-05-04 19:00:03,462 - DEBUG(Game.Game): Players added to the game
+2010-05-04 19:00:03,463 - DEBUG(Game.Game): Dice added to the game
+2010-05-04 19:00:03,468 - DEBUG(Game.Game): Properties of current throw calculated
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): Succesfully read from file 5 as the number of dice
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): Succesfully read from file 6 as the maximum value for dice
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): Succesfully read from file 10 as the number of throws per turn
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): number of dice was not changed and the current value is 4
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): maximum value for dice was not changed and the current value is 4
+2010-05-04 19:00:03,469 - DEBUG(Game.Settings): number of throws per turn was not changed and the current value is 2

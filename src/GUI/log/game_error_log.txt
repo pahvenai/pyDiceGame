@@ -1,0 +1,385 @@
+2010-05-04 12:44:10,873 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 12:52:29,739 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 12:52:30,842 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 12:52:35,448 - CRITICAL(Game.Settings): No dice combinations found from file '/home/pate/workspace/Yleinen noppapeli/src/GUI/DiceRow.pyc'! Loading default settings 'Basic Yahtzee.dat'.
+2010-05-04 12:52:45,990 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 12:52:45,990 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 12:52:46,474 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 12:52:46,474 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 12:52:49,176 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 12:52:49,176 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:01:18,504 - CRITICAL(Game.Settings): No dice combinations found from file '/home/pate/workspace/Yleinen noppapeli/src/GUI/GameState.py'! Loading default settings 'Basic Yahtzee.dat'.
+2010-05-04 13:02:13,643 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:13,643 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:19,054 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:19,054 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:19,814 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:19,814 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:20,270 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:20,270 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:21,270 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:21,270 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:22,314 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:22,314 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:22,790 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:22,790 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:23,638 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:23,638 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:24,502 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:24,502 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:25,006 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:25,006 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:25,471 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:25,471 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:26,001 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:26,001 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 13:02:26,566 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:02:26,566 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:04:27,851 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 13:04:58,331 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:04:58,331 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:05:06,372 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:05:06,372 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:05:06,707 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:05:06,707 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:06:32,075 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:06:32,075 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:06:32,075 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:08:46,355 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:08:46,355 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:08:46,355 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:08:46,355 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:16:39,515 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:16:39,515 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:16:51,539 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:16:51,539 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:16:51,539 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:18:33,179 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:18:34,418 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:18:40,587 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:18:40,587 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:18:42,907 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:18:42,907 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:23:26,146 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 13:23:26,572 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:23:32,492 - CRITICAL(Game.Settings): No dice combinations found from file '/home/pate/workspace/Yleinen noppapeli/src/GUI/DiceRow.pyc'! Loading default settings 'Basic Yahtzee.dat'.
+2010-05-04 13:24:36,323 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 13:24:37,387 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:00:29,787 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:00:33,021 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:33,503 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:33,991 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:34,463 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:34,951 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:35,375 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:35,871 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:36,291 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:36,743 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:37,199 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:37,695 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:38,198 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:38,674 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:39,135 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:39,663 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:40,186 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:40,683 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:41,207 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:00:41,767 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:00:48,671 - WARNING(GUI.ScoreBoard): The score is already marked and cannot be used again in this game
+2010-05-04 14:01:14,636 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:04,047 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:04:30,366 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:04:34,059 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:35,323 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:35,998 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:04:36,428 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:04:36,700 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:04:37,332 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:37,504 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:37,699 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:37,867 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:38,076 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:38,237 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:38,396 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:42,037 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:04:42,301 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:05:23,719 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:05:39,891 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:05:44,699 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:05:45,444 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:05:54,037 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:06:01,428 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:06:23,295 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:06:30,348 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:06:58,140 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:06:58,363 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:06:58,549 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:06:58,772 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:06:59,020 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:06:59,509 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is '-'
+2010-05-04 14:07:00,642 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:07:01,168 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:07:49,440 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 14:08:03,071 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:08:03,599 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 14:08:04,245 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 14:08:13,647 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is '-'
+2010-05-04 18:58:00,557 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 18:58:04,637 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 18:58:05,379 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'
+2010-05-04 18:58:05,859 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 2' when current player is 'Player 1'
+2010-05-04 18:58:06,378 - WARNING(GUI.ScoreBoard): 
+	Attempting to give scores to non-current player.
+ 	Tried to access player 'Player 1' when current player is 'Player 2'

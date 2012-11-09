@@ -1,0 +1,131 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module Settings</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>Settings</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/pate/workspace/Yleinen noppapeli/src/Game/Settings.py">/home/pate/workspace/Yleinen noppapeli/src/Game/Settings.py</a></font></td></tr></table>
+    <p><tt>Created&nbsp;on&nbsp;1&nbsp;Apr&nbsp;2010<br>
+Last&nbsp;modified&nbsp;on&nbsp;4&nbsp;May&nbsp;2010<br>
+&nbsp;<br>
+@author:&nbsp;Patrik&nbsp;Ahvenainen</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="Logger.html">Logger</a><br>
+</td><td width="25%" valign=top><a href="Combination.html">Combination</a><br>
+</td><td width="25%" valign=top></td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="__builtin__.html#object">__builtin__.object</a>
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="Settings.html#Settings">Settings</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="Settings">class <strong>Settings</strong></a>(<a href="__builtin__.html#object">__builtin__.object</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>&nbsp;game-luokan&nbsp;jälkeen&nbsp;toiseksi&nbsp;tärkein&nbsp;luokka&nbsp;on&nbsp;varmaankin&nbsp;settings-luokka.&nbsp;Tässä&nbsp;luokassa&nbsp;määritellään<br>
+gamesäännöt.&nbsp;gamesettings&nbsp;luodaan&nbsp;lukemalla&nbsp;tiedostosta&nbsp;gamesettings.&nbsp;gameasetuksiin&nbsp;luetaan&nbsp;eri<br>
+yhdistelmien&nbsp;lisäksi&nbsp;oletusarvot&nbsp;seuraaville&nbsp;muuttujille:&nbsp;roundten&nbsp;lukumäärä,&nbsp;noppien&nbsp;maksimisilmäluku&nbsp;ja<br>
+throwvuorojen&nbsp;lukumäärä&nbsp;yhdellä&nbsp;gamevuorolla.&nbsp;Näiden&nbsp;kolmen&nbsp;muuttujien&nbsp;arvoja&nbsp;voidaan&nbsp;muuttaa&nbsp;ennen<br>
+gamen&nbsp;alkua&nbsp;(gameround&nbsp;0).<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%">Methods defined here:<br>
+<dl><dt><a name="Settings-__init__"><strong>__init__</strong></a>(self, tiedoston_nimi, game)</dt><dd><tt>Luo&nbsp;asetuksiin&nbsp;tarvittavat&nbsp;muuttujat.&nbsp;Muuttujien&nbsp;arvot&nbsp;luetaan&nbsp;game-<br>
+asetuksista&nbsp;kutsumalla&nbsp;metodia&nbsp;set_Yhdistelmalista_tiedostosta(...)</tt></dd></dl>
+
+<dl><dt><a name="Settings-combination_parameter_check"><strong>combination_parameter_check</strong></a>(self, index)</dt><dd><tt>Check&nbsp;that&nbsp;parameters&nbsp;for&nbsp;the&nbsp;maximum&nbsp;and&nbsp;<br>
+minimum&nbsp;values&nbsp;of&nbsp;the&nbsp;possible&nbsp;combinations<br>
+are&nbsp;not&nbsp;bigger&nbsp;and&nbsp;smaller,&nbsp;respectively,&nbsp;<br>
+than&nbsp;the&nbsp;current&nbsp;values&nbsp;in&nbsp;the&nbsp;game.<br>
+&nbsp;<br>
+The&nbsp;following&nbsp;parameter&nbsp;values&nbsp;are&nbsp;checked:<br>
+-&nbsp;No&nbsp;of&nbsp;dice<br>
+-&nbsp;Maximum&nbsp;value&nbsp;of&nbsp;the&nbsp;dice<br>
+-&nbsp;Maximum&nbsp;number&nbsp;of&nbsp;throws&nbsp;per&nbsp;game&nbsp;turn</tt></dd></dl>
+
+<dl><dt><a name="Settings-get_combinations"><strong>get_combinations</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-get_game"><strong>get_game</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-get_max_value"><strong>get_max_value</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-get_no_of_dice"><strong>get_no_of_dice</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-get_no_of_throws"><strong>get_no_of_throws</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-get_settings_file"><strong>get_settings_file</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-initializeToZero"><strong>initializeToZero</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="Settings-new_settings"><strong>new_settings</strong></a>(self, filename)</dt><dd><tt>Open&nbsp;a&nbsp;new&nbsp;settings&nbsp;file</tt></dd></dl>
+
+<dl><dt><a name="Settings-set_max_value"><strong>set_max_value</strong></a>(self, new_max_value)</dt></dl>
+
+<dl><dt><a name="Settings-set_no_of_dice"><strong>set_no_of_dice</strong></a>(self, new_no_of_dice)</dt></dl>
+
+<dl><dt><a name="Settings-set_no_of_throws"><strong>set_no_of_throws</strong></a>(self, new_no_of_throws)</dt></dl>
+
+<dl><dt><a name="Settings-settings_from_file"><strong>settings_from_file</strong></a>(self, file_name)</dt><dd><tt>Lukee&nbsp;gamesettings-tiedostosta&nbsp;käytettävät&nbsp;yhdistelmät&nbsp;sekä<br>
+roundten&nbsp;lukumäärän,&nbsp;noppien&nbsp;maksimisilmäluvun&nbsp;ja&nbsp;throwvuorojen<br>
+lukumäärän&nbsp;yhdellä&nbsp;gamevuorolla.</tt></dd></dl>
+
+<hr>
+Data descriptors defined here:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>combinations</strong></dt>
+</dl>
+<dl><dt><strong>game</strong></dt>
+</dl>
+<dl><dt><strong>max_value</strong></dt>
+</dl>
+<dl><dt><strong>no_of_dice</strong></dt>
+</dl>
+<dl><dt><strong>no_of_throws</strong></dt>
+</dl>
+<dl><dt><strong>settings_file</strong></dt>
+</dl>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>COMB_PARAMETER_LIST</strong> = ['nmin', 'nmax', 'smin', 'smax', 'hmin', 'hmax', 'indexmin', 'indexmax']<br>
+<strong>DEFAULT_H</strong> = 3<br>
+<strong>DEFAULT_N</strong> = 5<br>
+<strong>DEFAULT_S</strong> = 6<br>
+<strong>DEFAULT_SETTINGS</strong> = 'Basic Yahtzee.dat'<br>
+<strong>HMAX</strong> = 10<br>
+<strong>HMIN</strong> = 1<br>
+<strong>NMAX</strong> = 9<br>
+<strong>NMIN</strong> = 1<br>
+<strong>SMAX</strong> = 9<br>
+<strong>SMIN</strong> = 2</td></tr></table>
+</body></html>

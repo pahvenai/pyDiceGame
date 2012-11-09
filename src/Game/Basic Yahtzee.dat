@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+
+The Basic Yahtzee Game
+
+Rules by Patrik Ahvenainen
+
+Last update May 5, 2010
+
+---------------------------------------------------------------------------
+
+#N# 	5	'Number of dice'
+#s#		6	'Maximum value of dice'
+#H#		3	'Maximum number of allowed throws'
+
+#y#	000100	''s'						
+#y#	000200	'straight of'		nMin 4	sMin 4	indexMin 4 	indexMax 5
+#y#	000300	'of a kind'			nMin 5	indexMin 2 	indexMax 4
+#y#	000400	'two pairs'			nMin 4
+#y#	000700	'Yahtzee'			nMin 5	sMin 3
+#y#	001000	'Full House'		nMin 5
+#y#	000000	'Chance'

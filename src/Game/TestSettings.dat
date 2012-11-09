@@ -1,0 +1,15 @@
+#N#		5
+#s#		6
+#H#		10
+
+#y#	000100	''s'						
+#y#	000200	'straight of'		
+#y#	000300	'of a kind'			
+#y#	000400	'two pairs'			
+#y#	000500	', divisible by'	indexMin	2	indexMax	3
+#y#	000600	', undivisible by'	indexMin	2	indexMax	3
+#y#	000700	'Yahtzee'			
+#y#	000800	'Fair division'	
+#y#	000900	'Unfair division'	
+#y#	001000	'Full House'	
+#y#	000000	'Chance'
